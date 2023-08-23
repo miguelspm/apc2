@@ -1,6 +1,6 @@
-# Algoritmos e Programação 
+# Algoritmos e Programação de Computadores
 
-repositório criado para guardar os códigos da disciplina# apc2
+repositório criado para guardar os códigos da disciplina# 
 
 ## Estrutura de pastas 
 
